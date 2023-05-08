@@ -1,22 +1,7 @@
 <h3>TITLE OF THE PROJECT</h3>             
 
 **NU Events**
-                                             
-  
-                                        ========================================
-                                                     INTRODUCTION
-                                        ========================================
-
-**Team group**  16          
- 
-**Team Members:**
-- Puppala Naga Vaishnavi - 002797549         ​       
-- Rishika Gurram - 002775401         
-- Sraddha P gangireddygari -002743943         
-- Akshitha Kamshetty- 002774164        
-
-
-```
+                                               
 
                                         ========================================
                                                      PROBLEM STATEMENT
