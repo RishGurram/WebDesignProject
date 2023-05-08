@@ -1,6 +1,13 @@
 <h3>TITLE OF THE PROJECT</h3>             
 
 **NU Events**
+
+                                    ========================================
+                                                 INTRODUCTION
+                                    ========================================
+Team Name: 16
+
+Team Members: RISHIKA GURRAM - 002775401 VAISHNAVI- 002797549 SRADDHA-002743943 AKSHITHA-002774164 
                                                
 
                                         ========================================
